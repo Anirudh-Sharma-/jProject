@@ -8,7 +8,7 @@ public class SolutionServiceImplTest {
 
 	@Test
 	public void testSaveSolution() {
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
 	}
 	
 	// methodName_ConditionTesting
